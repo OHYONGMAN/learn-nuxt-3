@@ -8,9 +8,10 @@
   </q-page>
 </template>
 
-<scrpit lang="ts">
+<script lang="ts">
 console.log('prefetching-2');
-</scrpit>
+export default {};
+</script>
 
 <script setup lang="ts"></script>
 
